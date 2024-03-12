@@ -1,3 +1,4 @@
-.virtual_documents/star_plot.ipynb
-.ipynb_checkpoints/star_plot-checkpoint.ipynb
+.virtual_documents/
+.ipynb_checkpoints/
 .DS_Store
+*.fits
